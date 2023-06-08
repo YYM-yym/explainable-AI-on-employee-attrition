@@ -1,6 +1,7 @@
 # explainable-AI-on-employee-attrition
 This project aims to identify the key factors leading to employee attrition by using machine learning models and Explainable AI (XAI) techniques. We use Binary Classification to predict the attrition and then apply various XAI methods to interpret the predictions.
 
+--
 The following steps are covered:
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
